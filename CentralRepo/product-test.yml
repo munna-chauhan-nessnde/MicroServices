@@ -2,4 +2,4 @@ spring:
   application:
     name: product-service
 product:
-    name: TEST
+  env: TEST
